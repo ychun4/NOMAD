@@ -1,2 +1,0 @@
-# NOMAD
-Created with CodeSandbox
